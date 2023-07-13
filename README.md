@@ -1,6 +1,6 @@
 # Simple Reinforcement Learning Network
 ## How to use:
 + Install Rust
-+ Download this file
++ download the code
 + cd to the downloaded Folder
 + run: cargo run
